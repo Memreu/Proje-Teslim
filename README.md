@@ -41,3 +41,9 @@ A* algoritması, en hızlı rotayı bulmak için kullanılır.
   
 ***
 
+## 👨‍🏫 Projeyi Geliştirme Fikirleri
+1. Çıktıların görselleştirilmesi özelliğinin eklenmesi : **matplotlib** kütüphanesinden yardım alınarak algoritmalar sonrası ortaya çıkacak yol tarifinin görselleştirilmiş hali üretilebilir.
+2. Alternatif rotalar sunabilme özelliğinin eklenmesi : Örneğin -> Şu an için yalnızca metro yollarıyla ilgilenen uygulamanın otobüs ve metrobüs önerilerinde de bulunması sağlanabilir.
+3. Çıkan rotaya göre maliyet hesabı yapabilme özelliğinin eklenmesi : Yapılacak aktarma ve kullanılanacak araç türüne göre farklı kullanıcı özelliklerine göre maliyet belirlenip çıktıların altına yazılabilir.
+   
+***
